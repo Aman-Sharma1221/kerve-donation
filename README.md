@@ -1,6 +1,6 @@
 
 
-# kerve-donation - A Blood Donor Chain
+# Kerve-Donation - A Blood Donor Chain
 
 A blockchain-based Blood Donation Management System ; The dApp is created to make the blood donation transparent and decentralised. It helps us to know
 whether the blood donated reaches the needed and also donate blood as per request so that there is no blood wastage and spoilage.
